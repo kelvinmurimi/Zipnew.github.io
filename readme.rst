@@ -1,3 +1,10 @@
+Hi
+this is a simple blog system using code igniter.credits on frontend goes to Brad Traversy cause i used most of frontend using his tutorial
+
+
+
+
+
 ###################
 What is CodeIgniter
 ###################
